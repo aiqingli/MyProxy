@@ -1,0 +1,8 @@
+com\hp\ts\dwf\gss\GssFilter.class
+com\hp\ts\dwf\gss\GssConstants.class
+com\hp\ts\dwf\gss\GssItem.class
+com\hp\ts\dwf\gss\JavaSerializationSupport.class
+com\hp\ts\dwf\gss\GssStore.class
+com\hp\ts\dwf\gss\JsonSerializer.class
+com\hp\ts\dwf\gss\Serializer.class
+com\hp\ts\dwf\gss\JavaSerializer.class

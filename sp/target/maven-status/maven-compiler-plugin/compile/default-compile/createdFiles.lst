@@ -1,0 +1,10 @@
+com\hp\ts\dwf\proxy\ConfigFileReader.class
+com\hp\ts\dwf\proxy\Proxy.class
+com\hp\ts\dwf\proxy\inject\FileInjector.class
+com\hp\ts\dwf\proxy\path\PathTranslater.class
+com\hp\ts\dwf\proxy\ProxyServlet.class
+com\hp\ts\dwf\proxy\inject\Injector.class
+com\hp\ts\dwf\util\FileUtil.class
+com\hp\ts\dwf\proxy\ProxyApp.class
+com\hp\ts\dwf\proxy\AppData.class
+com\hp\ts\dwf\proxy\path\SimplePathTranslater.class
